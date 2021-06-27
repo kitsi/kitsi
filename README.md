@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/1YeNJK6FptDdq1q59K/giphy.gif"
-     alt="shiba working hard"
-     style="float: left; margin-right: 10px;" />
-
+![ballet](https://media.giphy.com/media/l4FGr8mqLwnqrMlsQ/giphy.gif)
+     
 <!--
 **kitsi/kitsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
