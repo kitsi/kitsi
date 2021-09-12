@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to kitsi's github! 👋
 
 ![ballet](https://media.giphy.com/media/l4FGr8mqLwnqrMlsQ/giphy.gif)
      
