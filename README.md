@@ -2,7 +2,7 @@
 
 ![ballet](https://media.giphy.com/media/l4FGr8mqLwnqrMlsQ/giphy.gif)
 
-[![Kitsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsi)](https://github.com/kitsi/github-readme-stats)
+[![kitsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsi)](https://github.com/kitsi/github-readme-stats)
 
      
 <!--
