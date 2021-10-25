@@ -1,6 +1,9 @@
-### Welcome to kitsi's github! 🌱
+### Welcome! 🌱
 
 ![ballet](https://media.giphy.com/media/l4FGr8mqLwnqrMlsQ/giphy.gif)
+
+[![Kitsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsi)](https://github.com/kitsi/github-readme-stats)
+
      
 <!--
 **kitsi/kitsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
